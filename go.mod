@@ -1,4 +1,4 @@
-module tron-sdk
+module github.com/langsen111/tron-sdk
 
 go 1.20
 

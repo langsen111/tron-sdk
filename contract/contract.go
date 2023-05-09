@@ -4,11 +4,11 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
+	"github.com/langsen111/tron-sdk/enums"
 	"google.golang.org/grpc"
 	"google.golang.org/protobuf/proto"
 	"math/big"
 	"strings"
-	"tron-sdk/enums"
 
 	trxAbi "github.com/fbsobreira/gotron-sdk/pkg/abi"
 	"github.com/fbsobreira/gotron-sdk/pkg/client"
